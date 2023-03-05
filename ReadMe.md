@@ -4,6 +4,12 @@
 https://www.kaggle.com/datasets/nancyalaswad90/review
 https://www.kaggle.com/datasets/ishandutta/early-stage-diabetes-risk-prediction-dataset
 
+<div>
+<img src="https://github.com/AkashHiremath856/Pima-Indians-Diabete/blob/main/samples/photo_6062373255320286340_w.jpg">
+<img src="https://github.com/AkashHiremath856/Pima-Indians-Diabete/blob/main/samples/photo_6062373255320286342_w.jpg">
+<img src="https://github.com/AkashHiremath856/Pima-Indians-Diabete/blob/main/samples/photo_6062373255320286343_w.jpg">
+</div>
+
 <h2>About</h2>
 <p>
 The Pima Indians are a Native American tribe that primarily resides in Arizona, United States, and Sonora, Mexico. The Pima Indians have a high prevalence of type 2 diabetes, which has been extensively studied over the years.
